@@ -188,6 +188,59 @@ Full evidence is in `BUSINESS_INSIGHTS_AND_RECOMMENDATIONS.pdf`.
 5. 79.4% of complaints are forwarded the same day, but 1,506 (2.4%) take more than 14 days, up from 0.5% in 2020 to about 3% in 2022-2023.
 6. July 2023 was the highest month on record (1,749 complaints, 72% above June).
 
+## Business Insights & Recommendations
+
+### Evidence-Based Findings
+
+**1. Complaint volume is rising**  
+Total complaints stand at **9,131**, an **+11.3%** increase compared to 2022 YTD (8,201). 2022 recorded the highest volume (12,953), followed by 2021 and 2023. This indicates growing customer dissatisfaction or increased reporting activity.
+
+**2. Checking/Savings accounts dominate complaints**  
+“Checking or savings account” is the largest product category by a wide margin, significantly outpacing Credit card/prepaid, Mortgage, and Money transfer products. This product line is the primary driver of overall complaint volume.
+
+**3. “Managing an account” is the top issue**  
+The most frequent issue is **Managing an account** (15,109 complaints). Other major issues include Incorrect information, Problems with a purchase, Closing an account, and Trouble during payment processes. Account management friction is a clear customer pain point.
+
+**4. Timely response rate has declined**  
+Current Timely Response rate is **93.2%**, down **-3.6 percentage points** from 96.8% in 2022 YTD. Although still relatively high, the downward trend requires attention. Only a small portion (~3.7%) are marked as untimely or “Not recorded”.
+
+**5. Forwarding performance is strong**  
+Average Forwarding Interval is excellent at **1.08 days** (slightly better than the previous year’s 1.12 days). The majority of complaints are forwarded on the **same day** (32,007 cases). Delayed complaints (>14 days) remain low at **3.1%**.
+
+**6. Company responses are mostly explanatory**  
+The dominant response type is **“Closed with explanation”** (41,044). Monetary relief ranks second (14,697), followed by non-monetary relief. **1,494** complaints remain “In progress” and need monitoring.
+
+---
+
+### Actionable Recommendations
+
+**1. Prioritize the Checking/Savings product line**  
+Conduct a focused root-cause analysis on “Checking or savings account” complaints, especially those related to “Managing an account”. Review account opening, maintenance, fee communication, and digital banking processes. Assign a dedicated product owner to drive volume reduction within the next quarter.
+
+**2. Reverse the decline in Timely Response rate**  
+Investigate the drop from 96.8% to 93.2%. Set a clear internal SLA target to restore and maintain ≥ 96% timely responses. Introduce weekly monitoring of “In progress” and “Not recorded” cases with escalation for aging complaints.
+
+**3. Strengthen first-contact resolution for high-volume issues**  
+Develop improved scripts, knowledge base articles, and process guides for the top issues (Managing an account, Incorrect information, Closing an account, etc.). Empower frontline teams to resolve more complaints at first contact and reduce reliance on monetary relief where possible.
+
+**4. Maintain strong forwarding performance**  
+The current average of 1.08 days and high same-day forwarding rate are strengths. Continue monitoring the small percentage of delayed cases (>14 days) and implement alerts for any complaint exceeding 7 days.
+
+**5. Deep-dive into “In Progress” cases**  
+1,494 complaints are currently marked “In progress”. Conduct weekly reviews by product and age to prevent these cases from becoming long-outstanding or escalated issues.
+
+---
+
+### Summary for Leadership
+
+| Area                  | Current Status              | Priority Action                          |
+|-----------------------|-----------------------------|------------------------------------------|
+| Complaint Volume      | Rising (+11.3%)             | Investigate Checking/Savings             |
+| Top Product           | Checking/Savings            | Product-level root cause analysis        |
+| Top Issue             | Managing an account         | Improve processes & communication        |
+| Timely Response       | Declining (93.2%)           | Restore to ≥ 96%                         |
+| Forwarding Speed      | Strong (1.08 days)          | Maintain & monitor delays                |
+| Response Style        | Mostly “Explanation”        | Improve first-contact resolution         |
 ---
 
 ## 10. Assumptions
@@ -205,6 +258,8 @@ Full evidence is in `BUSINESS_INSIGHTS_AND_RECOMMENDATIONS.pdf`.
 - State counts reflect population and customer presence; no per-capita adjustment is available.
 - Associations in the dashboard are descriptive and must not be read as causes.
 
+## Click here to access the dashboard on my powerBI services
+https://app.powerbi.com/view?r=eyJrIjoiMzI3ZWVkMDktMjQ3Zi00ODMxLWI0MWQtMTAyMTkwYjU4MDZkIiwidCI6IjQ4NTkyZTczLTE2OTUtNGVmMy1hYzg3LWM0ZDNjMGVhNDYzMyJ9
 
 
 ## 15. Source and attribution
